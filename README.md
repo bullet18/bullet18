@@ -4,6 +4,9 @@
   <div"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bullet18&theme=radical&show_icons=true&hide_border=true&layout=compact" /></div>
 </div>
 <div align="center">
+
+ 
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
@@ -35,3 +38,7 @@
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 </div>
+
+ 
+
+<div align="center">
